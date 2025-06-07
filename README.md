@@ -29,6 +29,16 @@ If you encounter bugs or have suggestions, please report them via GitHub issues.
 
 ---
 
+## ⚙️ Custom Clients and Cracks
+
+- ✅ You are allowed to create and use **custom clients** of Easygame.  
+- ✅ If the game becomes **paid in the future**, **cracked versions will still be allowed**.  
+  You may legally bypass payment and share free versions.
+
+This permission is granted by the project owner.
+
+---
+
 ## 👨‍💻 Developer
 **Adam Tymczyszyn** – Programmer and project owner
 
