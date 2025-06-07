@@ -24,19 +24,29 @@ java -jar Easygame.jar
 ---
 
 ## ❗ Information
-This game is in the testing phase.  
-If you find any bugs or have suggestions, feel free to open an issue on GitHub.
+This game is currently in testing phase.  
+If you encounter bugs or have suggestions, please report them via GitHub issues.
 
 ---
 
 ## 👨‍💻 Developer
-**Adam Tymczyszyn** – programmer and owner of the project
+**Adam Tymczyszyn** – Programmer and project owner
 
 ---
 
 ## 📜 License
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**  
-You are free to use, modify, and distribute this project under the terms of the GNU GPL v3.
 
-More info:  
-🔗 https://www.gnu.org/licenses/gpl-3.0.html
+This project is licensed under the **GNU General Public License v3.0**.
+
+You are free to:
+
+- Use this software for any purpose
+- Modify the code
+- Share the software
+- Distribute modified versions
+
+**As long as** you comply with the terms of the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+---
+
+© 2025 Adam Tymczyszyn. All rights reserved.
